@@ -45,6 +45,7 @@ _____
 
 역할분담
 - 유나: 역과 구 매칭(1-4호선은 서울시 제공 데이터로, 5-9호선 및 분당선 등등은 수작업..)
+http://data.seoul.go.kr/dataList/OA-12035/A/1/datasetView.do;jsessionid=5CCF18226C123C8289086F07BA82179D.new_portal-svr-11
 - 민재: 역별로 32개 변수 계산하기
 - 한결: 클러스터링 모델링
 _____
